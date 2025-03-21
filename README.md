@@ -70,16 +70,15 @@ We welcome contributions from the community. Please follow these steps:
 
 
 ## License
-- This project is licensed under the MIT. See the <a href="https://github.com/OCR-tech/CubeOCR/blob/main/LICENSE" target="_blank">LICENSE</a>
+- This project is licensed under the MIT. See the [LICENSE](https://github.com/OCR-tech/CubeOCR/blob/main/LICENSE) for details.
 - This project depends on other software and packages using different open source licenses:
-    - <a href="https://github.com/UB-Mannheim/tesseract" target="_blank">Tesseract-OCR</a> uses the Apache License, Version 2.0. See the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">LICENSE</a> for details.
-    - <a href="http://www.leptonica.org/" target="_blank">Leptonica library</a> uses the BSD 2-clause License. See the <a href="http://www.leptonica.org/about-the-license.html" target="_blank">LICENSE</a> for details.
+    - [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract) uses the Apache License, Version 2.0. See the [LICENSE](http://www.apache.org/licenses/LICENSE-2.0) for details.
+    - [Leptonica library](http://www.leptonica.org/) uses the BSD 2-clause License. See the [LICENSE](http://www.leptonica.org/about-the-license.html) for details.
 
 
 ## Contact
 -  For any inquiries, please contact us at cubeocr.mail@gmail.com
--  Website: <a href="https://ocr-tech.github.io/CubeOCR/" target="_blank">https://ocr-tech.github.io/CubeOCR/</a>
-
+-  Website:[https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
 
 
 
