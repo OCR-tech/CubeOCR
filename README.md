@@ -70,7 +70,7 @@ We welcome contributions from the community. Please follow these steps:
 
 
 ## License
-- This project is licensed under the MIT. See the <a href="https://mit-license.org" target="_blank">LICENSE</a>
+- This project is licensed under the MIT. See the <a href="https://github.com/OCR-tech/CubeOCR/blob/main/LICENSE" target="_blank">LICENSE</a>
 - This project depends on other software and packages using different open source licenses:
     - <a href="https://github.com/UB-Mannheim/tesseract" target="_blank">Tesseract-OCR</a> uses the Apache License, Version 2.0. See the <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">LICENSE</a> for details.
     - <a href="http://www.leptonica.org/" target="_blank">Leptonica library</a> uses the BSD 2-clause License. See the <a href="http://www.leptonica.org/about-the-license.html" target="_blank">LICENSE</a> for details.
