@@ -78,7 +78,7 @@ We welcome contributions from the community. Please follow these steps:
 
 ## Contact
 -  For any inquiries, please contact us at cubeocr.mail@gmail.com
--  Website: https://ocr-tech.github.io/CubeOCR/
+-  Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
 
 
 
