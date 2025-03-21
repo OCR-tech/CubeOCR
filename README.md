@@ -41,7 +41,7 @@ To install and run this project locally, follow the steps below:
 2. Create a virtual environment:
 
     ```bash
-    python -m venv env
+    python -m venv .venv
     .env\Scripts\activate              # for Windows                    
     ```
 
