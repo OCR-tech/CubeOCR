@@ -25,6 +25,7 @@
 </div>
 <br> -->
 
+
 <!-- <br>
 <div class="row" style="display: flex; justify-content: center; align-content: center;">
 
@@ -44,11 +45,15 @@
 
 </div> -->
 
-<br/>
 
-![Sunset](docs/img/text1a.png =100x20) | ![Beach](docs/img/text1b.png =100x20) 
+<!-- <br/>
+![](docs/img/text1a.png) | ![](docs/img/text1b.png) 
+<br/> -->
 
-<br/>
+
+<img src="docs/img/text1a.png" style="width:50%; height:auto;">
+<img src="docs/img/text1b.png" style="width:50%; height:auto;">
+
 
 ## Key Features
 
