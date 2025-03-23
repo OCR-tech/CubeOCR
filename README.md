@@ -10,51 +10,21 @@
 <br>
 <div class="row" style="display: flex; justify-content: center; align-content: center;">
 
-<div class="column" style="width: 350px;">
+<div class="column" style="width: 300px;">
     <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1a.png">
-        <img src="docs/img_screen/text1a.png" style="max-height: 250px; object-fit: contain;">
+        <img src="docs/img_screen/text1a.png" style="max-height: 200px; object-fit: contain;">
     </a>  
 </div>
 
-<div class="column" style="width: 30px;"></div>
+<div class="column" style="width: 25px;"></div>
 
-<div class="column" style="width: 350px;">
+<div class="column" style="width: 300px;">
     <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1b.png">
-        <img src="docs/img_screen/text1b.png" style="max-height: 250px; object-fit: contain;">
+        <img src="docs/img_screen/text1b.png" style="max-height: 200px; object-fit: contain;">
     </a>  
 </div>
 
 </div>
-
-
-
-
-
-
-
-
-<br>
-<div class="row" style="display: flex; justify-content: center; align-content: center;">
-
-<div class="column" style="width: 400px;">
-    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1a.png">
-        <img src="docs/img_screen/text1a.png" astyle="max-height: 250px; object-fit: contain;">
-    </a>  
-</div>
-
-<div class="column" style="width: 50px;"></div>
-
-<div class="column" style="width: 400px;">
-    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1b.png">
-        <img src="docs/img_screen/text1b.png" style="max-height: 250px; object-fit: contain;">
-    </a>  
-</div>
-
-</div>
-
-
-
-
 
 
 
