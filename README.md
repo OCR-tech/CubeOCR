@@ -52,8 +52,8 @@
 
 <br/>
 <p align="center">
-<img src="docs/img/text1a.png" style="width:45%; height:auto;">&emsp;
-<img src="docs/img/text1b.png" style="width:45%; height:auto;">
+<img src="docs/img/text1a.png" style="width:50%; height:auto;">&emsp;
+<img src="docs/img/text1b.png" style="width:50%; height:auto;">
 </p>
 <br/>
 
