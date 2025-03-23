@@ -7,7 +7,7 @@
 
 <br>
 <div align="center">
-<table>
+<table style="">
     <tr>
         <th>
           <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
