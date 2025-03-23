@@ -44,10 +44,9 @@
 
 </div> -->
 
-
-<br>
+<br/>
 ![Sunset](docs/img/text1a.png) | ![Beach](docs/img/text1b.png) 
-<br>
+<br/>
 
 
 ## Key Features
