@@ -50,10 +50,12 @@
 ![](docs/img/text1a.png) | ![](docs/img/text1b.png) 
 <br/> -->
 
+<br/>
 <p align="center">
-<img src="docs/img/text1a.png" style="width:45%; height:auto;">
+<img src="docs/img/text1a.png" style="width:45%; height:auto;">&emsp;
 <img src="docs/img/text1b.png" style="width:45%; height:auto;">
 </p>
+<br/>
 
 ## Key Features
 
