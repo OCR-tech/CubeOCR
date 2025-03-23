@@ -46,7 +46,7 @@
 
 
 <br>
-![https://github.com/OCR-tech/CubeOCR/docs/img/text1a.png](docs/img/text1a.png)  ![https://github.com/OCR-tech/CubeOCR/docs/img/text1b.png](docs/img/text1b.png) 
+![Sunset](docs/img/text1a.png)  ![Beach](docs/img/text1b.png) 
 <br>
 
 
