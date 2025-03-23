@@ -9,7 +9,7 @@
 
 <div align="center">
   <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
-    <img src="image/main.png" alt="Logo" width="750px">
+    <img src="docs/img_screen/text1a.png" alt="Logo" width="750px">
   </a>  
 </div>
 
