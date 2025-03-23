@@ -6,7 +6,7 @@
 
 
 
-<br>
+<!-- <br>
 <div align="center">
 <table style="">
     <tr>
@@ -23,10 +23,7 @@
     </tr>
 </table>
 </div>
-<br>
-
-![Sunset](docs/img/text1a.png) | ![Beach](docs/img/text1b.png) |
-
+<br> -->
 
 <!-- <br>
 <div class="row" style="display: flex; justify-content: center; align-content: center;">
@@ -48,7 +45,9 @@
 </div> -->
 
 
-
+<br>
+![https://github.com/OCR-tech/CubeOCR/docs/img/text1a.png](docs/img/text1a.png)  ![https://github.com/OCR-tech/CubeOCR/docs/img/text1b.png](docs/img/text1b.png) 
+<br>
 
 
 ## Key Features
