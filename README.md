@@ -5,51 +5,6 @@
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
 
-
-<!-- <br>
-<div align="center">
-<table style="">
-    <tr>
-        <th>
-          <a href="https://github.com/OCR-tech/CubeOCR/docs/img/text1a.png">
-            <img src="docs/img/text1a.png" alt="Logo" width="400px">
-          </a>   
-        </th>
-        <th>
-          <a href="https://github.com/OCR-tech/CubeOCR/docs/img/text1b.png">
-            <img src="docs/img/text1b.png" alt="Logo" width="400px">
-          </a>
-        </th>
-    </tr>
-</table>
-</div>
-<br> -->
-
-
-<!-- <br>
-<div class="row" style="display: flex; justify-content: center; align-content: center;">
-
-<div class="column" style="width: 300px;">
-    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img/text1a.png">
-        <img src="docs/img/text1a.png" style="max-height: 200px; object-fit: contain;">
-    </a>  
-</div>
-
-<div class="column" style="width: 25px;"></div>
-
-<div class="column" style="width: 300px;">
-    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img/text1b.png">
-        <img src="docs/img/text1b.png" style="max-height: 200px; object-fit: contain;">
-    </a>  
-</div>
-
-</div> -->
-
-
-<!-- <br/>
-![](docs/img/text1a.png) | ![](docs/img/text1b.png) 
-<br/> -->
-
 <br/>
 <p align="center">
 <img src="docs/img/text1a.png" style="width:48%; height:auto;">&emsp;
@@ -93,7 +48,7 @@ To install and run this project locally, follow the steps below:
 
 ## Usage
 
-CubeOCR is an easy-to-use OCR tool designed to designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste it anywhere.
+CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste it anywhere.
 
 1. Select a text area on screen.
 2. Click on "OK" button after the OCR converstion
@@ -121,14 +76,4 @@ We welcome contributions from the community. Please follow these steps:
 ## Contact
 -  For any inquiries, please contact us at cubeocr.mail@gmail.com
 -  Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
-
-
-
-
-
-
-
-
-
-
 
