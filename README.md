@@ -5,19 +5,26 @@
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
 
-<br>
 
-<div align="center">
-  <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1a.png">
-    <img src="docs/img_screen/text1a.png" alt="Logo" style="max-height: 250px; object-fit: contain;">
-  </a>  
+
+<br>
+<div class="row" style="display: flex; justify-content: center; align-content: center;">
+
+<div class="column" style="width: 400px;">
+    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1a.png">
+        <img src="docs/img_screen/text1a.png" alt="Logo" style="max-height: 250px; object-fit: contain;">
+    </a>  
 </div>
 
-<!-- <div align="center">
-    <img class="mt-n0" src="docs/img_screen/text1a.png" style="max-height: 250px; object-fit: contain;">
-</div> -->
+<div class="column" style="width: 50px;"></div>
 
-<br>
+<div class="column" style="width: 400px;">
+    <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1b.png">
+        <img src="docs/img_screen/text1b.png" alt="Logo" style="max-height: 250px; object-fit: contain;">
+    </a>  
+</div>
+
+</div>
 
 
 ## Key Features
@@ -29,6 +36,7 @@
 - **Multi-Language Support**: Supports text recognition more than 107 different languages
 - **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
 - **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
+
 
 
 ## Installation
