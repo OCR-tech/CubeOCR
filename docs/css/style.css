@@ -1,0 +1,149 @@
+/* ============================================================*/
+/* Variables */
+/* ============================================================*/
+* {
+  --colorBlue1: rgb(139, 197, 255);
+  --colorBlue2: rgb(50, 150, 255);
+  --colorBlue3: rgb(0, 127, 255);
+  --colorBlue4: rgb(0, 115, 245);
+  --colorWhite: rgb(255, 255, 255);
+  --colorGrey1: rgb(245, 245, 245);
+  --colorGrey2: rgb(195, 195, 195);
+  --colorGrey3: rgb(145, 145, 145);
+  --colorGrey4: rgb(48, 48, 48);
+  --colorBlack: rgb(0, 0, 0);
+}
+
+
+
+
+/* ============================================================*/
+/* Header */
+/* ============================================================*/
+.column1, .column2, .column3, .column4 {
+  background-color: var(--colorWhite);
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.column1 {
+  width: 120px;
+  justify-content: center;
+}
+
+.column2 {
+  width: 530px;
+  align-content: left;
+  justify-content: left;
+}
+
+.column3 {
+  width: 95px;
+  justify-content: center;
+}
+
+.column4 {
+  width: 250px;
+  justify-content: right;
+}
+
+
+
+
+
+/* ============================================================*/
+/* General */
+/* ============================================================*/
+.h1-responsive, .h2-responsive, .h3-responsive, .h4-responsive, .h5-responsive, .h6-responsive, .p1-responsive, .p3 {
+  color: var(--colorBlack);
+  background-color: var(--colorWhite);
+  border-style: solid;
+  border-color: var(--colorWhite);
+  border-width: 1px;
+}
+
+.h1-responsive, .h2-responsive, .h4-responsive, .h5-responsive {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.h3-responsive {
+  border-width: 0px;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.h6-responsive {
+  border-color: var(--colorGrey3);
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.p1-responsive {
+  line-height: 1em;
+  font-size: 15px;
+}
+
+.p3 {
+  line-height: 0.3em;
+}
+
+h5-head {
+  font: 1.25em sans-serif;
+  display: flex;
+  flex-direction: row;
+}
+
+h5-head:before, h5-head:after {
+  content: "";
+  flex: 1 1;
+  border-bottom: 0.1em solid;
+  margin: auto;
+}
+
+h5-head:before {
+  margin-right: 10px;
+}
+
+h5-head:after {
+  margin-left: 10px;
+}
+
+.p5 {
+  font-size: 14px;
+  line-height: 24px;
+  margin: 0;
+}
+
+.l1 {
+  margin: 25px auto;
+  border-top: 3px solid;
+  color: var(--colorBlue2);
+  width: 900px;
+}
+
+
+/* ============================================================*/
+/* Buttons */
+/* ============================================================*/
+.btn-primary1:active, 
+.btn-primary1:hover, 
+.btn-primary1.focus, 
+.btn-primary1.active {
+  background-color: rgb(85, 175, 255) !important;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

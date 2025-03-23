@@ -2,31 +2,29 @@
 <a id="readme-top"></a>
 
 
-**CubeOCR** is an easy-to-use OCR tool designed to conveniently convert scanned documents, PDF files, or images, into editable and searchable text.
+**CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
+
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
+    <img src="image/main.png" alt="Logo" width="750px">
+  </a>  
+</div>
+
+<br>
+
 
 ## Key Features
 
-- **User-Friendly Interface**: Simple and intuitive interface for easy use.
-- **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort.
+- **User-Friendly Interface**: Simple and intuitive interface for easy use
+- **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort
 - **Transparent Background**: Suitable for side by side paragraphs and code editing 
-- **Advanced Image Pprocessing**: Enhance image quality with noise filtering features.
-- **Multi-Language Support**: Supports text recognition more than 107 different languages.
-- **Output Formats**: Supports various output formats: plain text, PDF, and Word documents.
-- **Hotkeys**: Activate OCR Screen, easily copy & paste to other applications
-
-
-## Table of Contents
-- [Description](#description)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
-<br>
-
-## Description
-
-**CubeOCR** project is a Python-based screenshot OCR tool designed to extract text from scanned documents or images. Simply select a text area, perform OCR, and ready to paste anywhere.
+- **Advanced Image Pprocessing**: Enhance image quality with noise filtering features
+- **Multi-Language Support**: Supports text recognition more than 107 different languages
+- **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
+- **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
 
 
 ## Installation
@@ -52,6 +50,8 @@ To install and run this project locally, follow the steps below:
     ```
 
 ## Usage
+
+CubeOCR is an easy-to-use OCR tool designed to designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste it anywhere.
 
 1. Select a text area on screen.
 2. Click on "OK" button after the OCR converstion
