@@ -8,10 +8,14 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
-    <img src="docs/img_screen/text1a.png" alt="Logo" width="750px">
+  <a href="https://github.com/OCR-tech/CubeOCR/blob/main/docs/img_screen/text1a.png">
+    <img src="docs/img_screen/text1a.png" alt="Logo" style="max-height: 250px; object-fit: contain;">
   </a>  
 </div>
+
+<!-- <div align="center">
+    <img class="mt-n0" src="docs/img_screen/text1a.png" style="max-height: 250px; object-fit: contain;">
+</div> -->
 
 <br>
 
