@@ -11,12 +11,12 @@
     <tr>
         <th>
           <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
-            <img src="docs/img_screen/text1a.png" alt="Logo" width="500px">
+            <img src="docs/img_screen/text1a.png" alt="Logo" width="400px">
           </a>   
         </th>
         <th>
           <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1b.png">
-            <img src="docs/img_screen/text1b.png" alt="Logo" width="500px">
+            <img src="docs/img_screen/text1b.png" alt="Logo" width="400px">
           </a>
         </th>
     </tr>
