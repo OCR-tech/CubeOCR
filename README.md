@@ -6,8 +6,27 @@
 
 
 
-
 <br>
+<div align="center">
+<table style="">
+    <tr>
+        <th>
+          <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1a.png">
+            <img src="docs/img_screen/text1a.png" alt="Logo" width="400px">
+          </a>   
+        </th>
+        <th>
+          <a href="https://github.com/OCR-tech/CubeOCR/docs/img_screen/text1b.png">
+            <img src="docs/img_screen/text1b.png" alt="Logo" width="400px">
+          </a>
+        </th>
+    </tr>
+</table>
+</div>
+
+
+
+<!-- <br>
 <div class="row" style="display: flex; justify-content: center; align-content: center;">
 
 <div class="column" style="width: 300px;">
@@ -24,7 +43,7 @@
     </a>  
 </div>
 
-</div>
+</div> -->
 
 
 
