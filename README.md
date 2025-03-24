@@ -27,8 +27,8 @@
 ## Installation
 
 Prerequisites: required software tools, libraries or system dependencies:
-- Tesseract-OCR: Version 5.5 or newer
-- Python: Version 3.11 or newer
+- Tesseract-OCR: Version 5.5 or newer [Download](https://github.com/UB-Mannheim/tesseract/wiki)
+- Python: Version 3.11 or newer [Download](https://www.python.org/downloads/)
 - Python packages: See `requirements.txt`
 
 </br>
