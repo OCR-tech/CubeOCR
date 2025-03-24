@@ -25,19 +25,28 @@
 
 
 ## Installation
+
+Prerequisites: required software tools, libraries or system dependencies:
+- Tesseract-OCR: Version 5.5 or newer
+- Python: Version 3.11 or newer
+- Python packages: See `requirements.txt`
+
+</br>
+
+
 To install and run this project locally, follow the steps below:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/CubeOCR.git
-    cd CubeOCR
+    git clone https://github.com/username/repository.git
+    cd repository
     ```
 
 2. Create a virtual environment:
 
     ```bash
     python -m venv .venv
-    .env\Scripts\activate              # for Windows                    
+    .venv\Scripts\activate              # for Windows                    
     ```
 
 3. Install the dependencies:
@@ -46,12 +55,18 @@ To install and run this project locally, follow the steps below:
     pip install -r requirements.txt
     ```
 
+4. To run the project:
+
+    ```bash
+    python app.py
+    ```
+
 ## Usage
 
 CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste it anywhere.
 
-1. Select a text area on screen.
-2. Click on "OK" button after the OCR converstion
+1. Select a text area on the screen.
+2. Click the "OK" button after the OCR converstion
 3. Paste the editable text to other applications
 
 
