@@ -1,6 +1,4 @@
 # CubeOCR
-<a id="readme-top"></a>
-
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
