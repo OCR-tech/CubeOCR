@@ -125,6 +125,18 @@ main a:hover {
   margin: 15px;
 }
 
+img-screen {
+  min-width: 50%; 
+  /* min-height: fit-content;  */
+  max-width: 95%; 
+  max-height: 95%; 
+  position: fixed; 
+  top: 50%; 
+  left: 50%; 
+  transform: translate(-50%,-50%);
+}
+
+
 .img-layout {
   max-width: 100%;
   height: auto;
@@ -164,6 +176,17 @@ main a:hover {
     height: 75px;
     width: 350px;
   }
+
+  /* .img-screen {
+    min-width: 30%; 
+    min-height: fit-content; 
+    max-width: 50%; 
+    max-height: 50%; 
+    position: fixed; 
+    top: 50%; 
+    left: 50%; 
+    transform: translate(-50%,-50%);
+  } */
 
   footer .container {
       flex-direction: column;
