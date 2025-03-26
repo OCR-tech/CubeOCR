@@ -53,7 +53,7 @@ header {
   width: 100%;
   margin: 0 auto;
   padding: 10px 0;
-  border-bottom: 8px solid var(--colorBlue1, #0056b3);
+  border-bottom: 8px solid var(--colorBlue1);
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -64,14 +64,14 @@ nav {
 }
 
 footer .container {
-  background-color: var(--colorBlue4, #007bff);
+  background-color: var(--colorBlue4);
   flex-direction: column;
   text-align: right;
 }
 
 
 main a:hover {
-  color: var(--colorBlue4, #0056b3);
+  color: var(--colorBlue4);
 }
 
 
@@ -88,14 +88,14 @@ main a:hover {
 .btn-primary {
   margin: 5px;
   padding: auto;
-  background-color: var(--colorBlue2, #0056b3);
+  background-color: var(--colorBlue2);
   width: 120px;
   min-width: 100px;
   border-radius: 5px;
   color: white;
 }
 .btn-primary:hover {
-  background-color: var(--colorBlue1, #004085);
+  background-color: var(--colorBlue1);
 }
 
 
@@ -105,7 +105,7 @@ main a:hover {
   justify-content: center; 
   align-items: center; 
   font: 1em sans-serif;
-  background-color: var(--colorBlue3, #0056b3);
+  background-color: var(--colorBlue3);
   width: 150px; 
   height: 45px; 
   border-radius: 5px;
@@ -114,7 +114,7 @@ main a:hover {
 }
 
 .btn-button:hover {
-  background-color: var(--colorBlue5, #004085);
+  background-color: var(--colorBlue5);
   color: white;
 }
 
