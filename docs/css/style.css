@@ -1,11 +1,12 @@
-/* ============================================================*/
+/* ============================================================
 /* Variables */
 /* ============================================================*/
 * {
-  --colorBlue1: rgb(139, 197, 255);
+  --colorBlue1: rgb(99, 177, 255);
   --colorBlue2: rgb(50, 150, 255);
   --colorBlue3: rgb(0, 127, 255);
   --colorBlue4: rgb(0, 115, 245);
+  --colorBlue5: rgb(0, 95, 215);
   --colorWhite: rgb(255, 255, 255);
   --colorGrey1: rgb(245, 245, 245);
   --colorGrey2: rgb(195, 195, 195);
@@ -16,10 +17,195 @@
 
 
 
+
+
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  line-height: 1.6;
+  background-color: #f8f9fa;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.75rem; /* Default for headings */
+}
+
+h5 {
+  font-size: 1.2rem; /* Default for headings */
+  margin-top: 35px;
+  margin-bottom: 15px;
+}
+
+h6 {
+  font-size: 0.85rem; /* Default for headings */
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 0.95rem; /* Default for paragraphs */
+  /* line-height: 20px; */
+  margin-left: 5px;
+  margin-bottom: 5px;
+}
+
+
+header {
+  background-color: var(--colorBlue4);
+  width: 100%;
+  margin: 0 auto;
+  padding: 10px 0;
+  border-bottom: 8px solid var(--colorBlue1, #0056b3);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav {
+  width: 65%;
+  /* border: 5px solid black; */
+}
+
+footer .container {
+  background-color: var(--colorBlue4, #007bff);
+  flex-direction: column;
+  text-align: right;
+}
+
+
+main a:hover {
+  color: var(--colorBlue4, #0056b3);
+}
+
+
+.logo1 {
+  height: 85px;
+  /* border: 5px solid black; */
+}
+
+/* Buttons */
+.btn-primary {
+  margin: 5px;
+  padding: auto;
+  background-color: var(--colorBlue2, #0056b3);
+  width: 15%;
+  min-width: 100px;
+  border-radius: 5px;
+  color: white;
+}
+.btn-primary:hover {
+  background-color: var(--colorBlue1, #004085);
+}
+
+
+/* Buttons */
+.btn-button {
+  display: flex; 
+  justify-content: center; 
+  align-items: center; 
+  font: 1em sans-serif;
+  background-color: var(--colorBlue3, #0056b3);
+  width: 150px; 
+  height: 45px; 
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+}
+
+.btn-button:hover {
+  background-color: var(--colorBlue5, #004085);
+  color: white;
+}
+
+
+
+/* Images */
+.img-fluid {
+  max-width: 85%;
+  height: auto;
+  margin: 15px;
+}
+
+.img-layout {
+  max-width: 100%;
+  height: auto;
+  margin: 15px;
+}
+
+
+
+/* Lines */
+.line-title {
+  margin: auto;
+  border-top: 5px solid;
+  color: var(--colorBlue2);
+  width: 100%;
+}
+
+.line {
+  margin-top: 35px;
+  margin-bottom: 25px;
+  border-top: 2px solid;
+  color: var(--colorBlue1);
+  width: 100%;
+}
+
+
+
+
+
+
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  header nav {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+
+  .logo1 {
+      height: 50px;
+  }
+
+  footer .container {
+      flex-direction: column;
+      text-align: center;
+  }
+
+  body {
+      font-size: 14px;
+  }
+
+  h3 {
+      font-size: 1.5rem;
+  }
+
+  h5 {
+    font-size: 1rem;
+  }
+
+  p {
+      font-size: 0.8rem;
+  }
+
+  table, td, th {
+    font-size: 0.5rem;
+  }
+
+}
+
+
+
+
+
+
 /* ============================================================*/
 /* Header */
 /* ============================================================*/
-.column1, .column2, .column3, .column4 {
+/* .column1, .column2, .column3, .column4 {
   background-color: var(--colorWhite);
   display: flex;
   flex-wrap: wrap;
@@ -45,7 +231,7 @@
 .column4 {
   width: 250px;
   justify-content: right;
-}
+} */
 
 
 
@@ -54,7 +240,7 @@
 /* ============================================================*/
 /* General */
 /* ============================================================*/
-.h1-responsive, .h2-responsive, .h3-responsive, .h4-responsive, .h5-responsive, .h6-responsive, .p1-responsive, .p3 {
+/* .h1-responsive, .h2-responsive, .h3-responsive, .h4-responsive, .h5-responsive, .h6-responsive, .p1-responsive, .p3 {
   color: var(--colorBlack);
   background-color: var(--colorWhite);
   border-style: solid;
@@ -121,4 +307,4 @@ h5-head:after {
   border-top: 3px solid;
   color: var(--colorBlue2);
   width: 900px;
-}
+} */ */
