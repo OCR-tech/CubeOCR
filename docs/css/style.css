@@ -64,7 +64,6 @@ nav {
 }
 
 footer .container {
-  background-color: var(--colorBlue4);
   flex-direction: column;
   text-align: right;
 }
