@@ -174,8 +174,15 @@ main a:hover {
   }
 
   .logo1 {
-    height: 75px;
-    width: 350px;
+    height: fit-content;
+    width: 60%;
+  }
+
+  .btn-primary {
+    margin: 5px;
+    padding: auto;
+    /* width: 110px; */
+    /* min-width: 100px; */
   }
 
   footer .container {
