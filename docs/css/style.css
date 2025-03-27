@@ -125,20 +125,21 @@ main a:hover {
   margin: 15px;
 }
 
-.img-screen  {
+
+/* .img-screen  {
   min-width: 50%; 
-  /* min-height: fit-content;  */
+  min-height: fit-content; 
   max-width: 95%; 
   max-height: 95%; 
   position: fixed; 
   top: 50%; 
   left: 50%; 
   transform: translate(-50%,-50%);
-}
+} */
 
 
 .img-layout {
-  max-width: 100%;
+  max-width: 95%;
   height: auto;
   margin: 15px;
 }
