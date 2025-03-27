@@ -55,33 +55,42 @@
 
         <div class="container">
             <h5><b>General Features:</b></h5>
-            <p> &#8226; <a class="mx-1"> User-Friendly Interface:</a> A simple and intuitive interface for easy use. </p>
-            <p> &#8226; <a class="mx-1"> Integrated Text Editor with Built-in Toolbar:</a> Capable of processing editable text, saving time and effort. </p>
-            <p> &#8226; <a class="mx-1"> Transparent Background:</a> Suitable for side-by-side paragraphs and code editing. </p>
-            <p> &#8226; <a class="mx-1"> Advanced Image Processing:</a> Enhances image quality with noise filtering features. </p>
-            <p> &#8226; <a class="mx-1"> Multi-Language Support:</a> Supports text recognition in more than 107 different languages. </p>
-            <p> &#8226; <a class="mx-1"> Output Formats:</a> Supports various output formats, including plain text, PDF, and Word documents. </p>
-            <p> &#8226; <a class="mx-1"> Hotkeys:</a> Activate OCR Screen, easily copy and paste to other applications. </p>
+            <ul class="ul">
+                <li><a class="text-feature"> User-Friendly Interface:</a> A simple and intuitive interface for easy use. </li>
+                <li><a class="text-feature"> Integrated Text Editor with Built-in Toolbar:</a> Capable of processing editable text, saving time and effort. </li>
+                <li><a class="text-feature"> Transparent Background:</a> Suitable for side-by-side paragraphs and code editing. </li>
+                <li><a class="text-feature"> Advanced Image Processing:</a> Enhances image quality with noise filtering features. </li>
+                <li><a class="text-feature"> Multi-Language Support:</a> Supports text recognition in more than 107 different languages. </li>
+                <li><a class="text-feature"> Output Formats:</a> Supports various output formats, including plain text, PDF, and Word documents. </li>
+                <li><a class="text-feature"> Hotkeys:</a> Activate OCR Screen, easily copy and paste to other applications. </li>
+            </ul>
+
 
             <h5><b>Required Software & Libraries:</b></h5>
-            <p> &#8226; <a class="mx-1"> Tesseract-OCR:</a> Version 5.5 or newer
-                <span class="mx-1"> <a class="btn-link fw-bold" href="https://github.com/UB-Mannheim/tesseract/wiki" style="text-decoration: none;" target="_blank">&nbsp;Download</a> </span>                
-            <p> &#8226; <a class="mx-1"> Python:</a> Version 3.11 or newer
-                <span class="mx-1"> <a class="btn-link fw-bold" href="https://www.python.org/downloads/" style="text-decoration: none;" target="_blank">&nbsp;Download</a> </span>  
-            <p> &#8226; <a class="mx-1">Python packages:</a> See requirements.txt </p>
-            
-            <h5><b>Installation:</b></h5>
-            <p> 1) &nbsp; Clone the repository: <code> git clone https://github.com/username/CubeOCR.git</code> </p>
-            <p> 2) &nbsp; Change the directory: <code> cd CubeOCR</code><br></p>
-            <p> 3) &nbsp; Create a virtual environment: <code> python -m venv .venv </code></p>
-            <p> 4) &nbsp; Activate the virtual environment: <code> .venv\Scripts\activate </code></p>
-            <p> 5) &nbsp; Install the dependencies: <code> pip install -r requirements.txt </code></p>
+            <ul class="ul">
+                <li>
+                    <a class="text-feature"> Tesseract-OCR:</a> Version 5.5 or newer
+                        <span class="mx-1"> <a class="btn-link fw-bold" href="https://github.com/UB-Mannheim/tesseract/wiki" style="text-decoration: none;" target="_blank"> Download </span>
+                    </a> 
+                </li>
+                <li>
+                    <a class="text-feature"> Python:</a> Version 3.11 or newer
+                        <span class="mx-1"> <a class="btn-link fw-bold" href="https://www.python.org/downloads/" style="text-decoration: none;" target="_blank"> Download </span>
+                    </a> 
+                </li>
+                <li>
+                    <a class="text-feature">Python packages:</a> See requirements.txt
+                </li>
+
+
+            </ul>
+
 
             <div class="line"></div>
 
             <h5><b>OCR Languages Supported:</b></h5>
 
-            <div class="table" include-html="form_language_ocr.html" id="form_language_ocr_file" style="width: 100%;"></div>
+            <div class="table mt-3" include-html="form_language_ocr.html" id="form_language_ocr_file" style="width: 100%;"></div>
 
 
         </div>
