@@ -3,12 +3,22 @@
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
 
-<br/>
+<br>
+<div align="center">
+  <a href="https://github.com/OCR-tech/CubeOCR/docs/img/text1a.png">
+    <img src="docs/img/text1a.png" style="width:450px; height:auto; min-width:35%">
+  </a>  
+  </div>
+<br>
+
+
+<!-- <br/>
 <p align="center">
 <img src="docs/img/text1a.png" style="width:48%; height:auto;">&emsp;
 <img src="docs/img/text1b.png" style="width:48%; height:auto;">
 </p>
-<br/>
+<br/> -->
+
 
 ## Key Features
 
@@ -87,6 +97,6 @@ We welcome contributions from the community. Please follow these steps:
 
 
 ## Contact
--  For any inquiries, please contact us at cubeocr.mail@gmail.com
+-  For any inquiries, please contact us at ocrtech.mail@gmail.com
 -  Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
 
