@@ -42,7 +42,7 @@ Prerequisites: required software tools, libraries or system dependencies:
 </br>
 
 
-To install and run this project locally, follow the steps below:
+To install and run this project, follow the steps below:
 1. Clone the repository:
 
     ```bash
@@ -91,7 +91,7 @@ We welcome contributions from the community. Please follow these steps:
 
 ## License
 - This project is licensed under the MIT. See the [LICENSE](https://github.com/OCR-tech/CubeOCR/blob/main/LICENSE) for details.
-- This project depends on other software and packages using different open source licenses:
+- This project depends on other software and packages:
     - [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract) uses the Apache License, Version 2.0. See the [LICENSE](http://www.apache.org/licenses/LICENSE-2.0) for details.
     - [Leptonica library](http://www.leptonica.org/) uses the BSD 2-clause License. See the [LICENSE](http://www.leptonica.org/about-the-license.html) for details.
 
