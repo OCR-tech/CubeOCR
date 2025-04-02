@@ -37,6 +37,9 @@ Prerequisites: required software tools, libraries or system dependencies:
 - Python: Version 3.11 or newer [Download](https://www.python.org/downloads/)
 - Python packages: See `requirements.txt`
 
+<!-- To access tesseract-OCR from any location, add the directory where the tesseract-OCR binaries
+ are located to the Path variables, C:\Program Files\Tesseract-OCR. -->
+
 </br>
 
 
