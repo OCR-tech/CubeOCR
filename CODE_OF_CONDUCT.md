@@ -2,9 +2,9 @@
 
 ## Our Pledge
 
-As contributors and maintainers of this project, we pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
-
 We are committed to providing a welcoming and supportive environment for all participants, where everyone feels respected and valued.
+
+We pledge to make participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, gender identity and expression, level of experience, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 
 ## Our Standards
@@ -29,10 +29,11 @@ Examples of unacceptable behavior by participants include:
 
 As project maintainers, we are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-Maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+We have the right and responsibility to remove, edit, or reject comments, commits, code, issues, and other contributions that are not aligned with this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 
 ## Scope
+
 This Code of Conduct applies to all spaces managed by the project, including but not limited to:
 - Discussions in issues, pull requests, and discussions.
 - Communication in chat systems (e.g., Slack, Discord, etc.).
@@ -41,11 +42,9 @@ This Code of Conduct applies to all spaces managed by the project, including but
 
 
 
-
 ## Enforcement
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at ocrtech.mail@gmail.com. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting us at: ocrtech.mail@gmail.com. 
 
-Project maintainers are obligated to maintain confidentiality with regard to the reporter of an incident.
 
 ## Attribution
 This Code of Conduct is adapted from the Contributor Covenant, version 2.0, available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
