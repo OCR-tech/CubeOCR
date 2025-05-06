@@ -23,8 +23,8 @@
 - **User-Friendly Interface**: Simple and intuitive interface for easy use
 - **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort
 - **Transparent Background**: Suitable for side by side paragraphs and code editing 
-- **Advanced Image Pprocessing**: Enhance image quality with noise filtering features
-- **Multi-Language Support**: Supports text recognition more than 107 different languages
+- **Advanced Image Processing**: Enhance image quality with noise filtering features
+- **Multi-Language Support**: Supports text recognition 107 different languages
 - **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
 - **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
 
