@@ -41,32 +41,32 @@ To install this project:
 
 1. Clone the repository:
 
-    ```bash
+    ```sh
     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
     ```
 
 2. Change the directory:
 
-    ```bash
+    ```sh
     cd YOUR-REPOSITORY
     ```
 
 3. Create a virtual environment:
 
-    ```bash
+    ```sh
     python -m venv .venv
     ```
 
 4. Activate the virtual environment:
 
-    ```bash
+    ```sh
     .venv\Scripts\activate      # for Windows
     ```
     <!-- source venv/bin/activate    # for Linux/macOS -->
 
 5. Install the dependencies:
 
-    ```bash
+    ```sh
     pip install -r requirements.txt
     ```
 
@@ -84,7 +84,7 @@ To run this project:
 
 1. Run the main application:
 
-    ```bash
+    ```sh
     python src/main.py
     ```
 
@@ -110,4 +110,3 @@ For contributions, please follow the steps below:
 -  For any inquiries, please contact us at: ocrtech.mail@gmail.com
 -  Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
 -  GitHub: [https://github.com/OCR-tech](https://github.com/OCR-tech)
-
