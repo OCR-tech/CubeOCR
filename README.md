@@ -45,7 +45,7 @@ To install this project:
     git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
     ```
 
-2. Change the directory:
+2. Navigate to the project directory:
 
     ```sh
     cd YOUR-REPOSITORY
