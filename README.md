@@ -60,7 +60,7 @@ To install this project:
 4. Activate the virtual environment:
 
     ```sh
-    .venv\Scripts\activate      # for Windows
+    .\.venv\Scripts\Activate      # for Windows
     ```
     <!-- source venv/bin/activate    # for Linux/macOS -->
 
@@ -71,8 +71,6 @@ To install this project:
     ```
 
 ## Usage
-
-
 
 CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste anywhere.
 
@@ -85,7 +83,7 @@ To run this project:
 1. Run the main application:
 
     ```sh
-    python src/main.py
+    python src\main.py
     ```
 
 
