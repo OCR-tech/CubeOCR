@@ -26,8 +26,8 @@
 - **Advanced Image Processing**: Enhance image quality with noise filtering features
 - **Multi-Language Support**: Supports text recognition 107 different languages
 - **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
+- **Offline Usage**: No account sign-in required suitable for privacy data
 - **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
-
 
 ## Installation
 
