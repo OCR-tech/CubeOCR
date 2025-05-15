@@ -1,0 +1,759 @@
+/*===================================================*/
+/*===================================================*/
+/*===================================================*/
+QWidget #window {
+  background-color: green;
+  border-radius: $Border5;
+  border: 1px solid red;
+}
+
+
+/*===================================================*/
+#WidgetWindow {
+  border-top-left-radius: $Border5;
+  border-top-right-radius: $Border5;
+}
+
+
+/*===================================================*/
+#labelw1 {
+  background-color: $Color_TB;
+}
+
+
+
+/*===================================================*/
+#labelw2 {
+  margin-left: 1px;
+  border-left: 1px solid $Color_TB;
+  border-right: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border0;
+  border-bottom-right-radius: $Border0;
+}
+
+
+/*===================================================*/
+QStatusBar#sb1 {
+  background-color: transparent;
+  margin-left: 1px;
+  border-top: none;
+  border-left: 1px solid $Color_TB;
+  border-right: 1px solid $Color_TB;
+  border-bottom: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+
+/*===================================================*/
+QStatusBar#sb1::item {
+  border: none;
+}
+
+
+/*===================================================*/
+ QSizeGrip {
+  width: 18px;
+  height: 18px;
+  padding-right: 4px;
+  padding-bottom: 4px;
+ }
+
+/*===================================================*/
+#lbl1, #labelToolbar, #labelLayoutbar, #labelFormatbar {
+  background-color: $Color_BG;
+}
+
+/*===================================================*/
+#windowStatusBar {
+  background-color: transparent;
+}
+
+
+/*===================================================*/
+#btn1, #btn2 {
+  min-width: 65px;
+  min-height: 17px;
+  max-width: 65px;
+  max-height: 17px;
+  font-family: Arial;
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  border-radius: 8px;
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 $Color_BG, stop:1 $Color_btn_gradient2);
+}
+
+#btn1::hover, #btn2::hover {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 $Color_BG, stop:1 $Color_btn_gradient3);
+}
+
+#btn1::pressed, #btn2::pressed {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 $Color_BG, stop:1 $Color_btn_gradient4);
+}
+
+
+/*===================================================*/
+#btn3, #btn4, #btn5, #btnMinimize, #btnRestore, #btnMaximize, #btnClose {
+  min-width: 17px;
+  min-height: 17px;
+  max-width: 17px;
+  max-height: 17px;
+  border-radius: 8px;
+}
+
+
+/*===================================================*/
+#btn3 {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 rgb(85, 195, 225));
+}
+
+#btn3::hover {
+  background-color: rgb(85, 145, 225);
+  border-image: url(":/resources/icon/titlebar/btn_caret1.png");
+}
+
+#btn3::pressed {
+  background-color: rgb(85, 125, 225);
+  border-image: url(":/resources/icon/titlebar/btn_caret1.png");
+}
+
+
+/*===================================================*/
+#btn4 {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 rgb(85, 195, 225));
+}
+
+#btn4::hover {
+  background-color: rgb(85, 145, 225);
+  border-image: url(":/resources/icon/titlebar/btn_caret3.png");
+}
+
+#btn4::pressed {
+  background-color: rgb(85, 125, 225);
+  border-image: url(":/resources/icon/titlebar/btn_caret3.png");
+}
+
+
+/*===================================================*/
+#btn5 {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 rgb(185,185,185));
+}
+
+#btn5::hover {
+  background-color: rgb(135,135,135);
+  border-image: url(":/resources/icon/titlebar/btn_theme1.png");
+}
+
+#btn5::pressed {
+  background-color: rgb(115,115,115);
+  border-image: url(":/resources/icon/titlebar/btn_theme1.png");
+}
+
+
+/*===================================================*/
+#btnMinimize {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 hsv(38, 218, 253));
+}
+
+#btnMinimize::hover {
+  background-color: hsv(38, 218, 203);
+  border-image: url(":/resources/icon/titlebar/btn_minimize1.png");
+}
+
+#btnMinimize::pressed {
+  background-color: hsv(38, 218, 153);
+  border-image: url(":/resources/icon/titlebar/btn_minimize1.png");
+}
+
+
+/*===================================================*/
+#btnRestore, #btnMaximize {
+  background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 hsv(123, 204, 198));
+}
+
+#btnRestore::hover, #btnMaximize::hover {
+  background-color: hsv(123, 204, 148);
+  border-image: url(":/resources/icon/titlebar/btn_maximize1.png");
+}
+
+#btnRestore::pressed, #btnMaximize::pressed {
+  background-color: hsv(123, 204, 98);
+  border-image: url(":/resources/icon/titlebar/btn_maximize1.png");
+}
+
+
+/*===================================================*/
+#btnClose {
+   background: qradialgradient(cx:0, cy:0, radius: 0.63, fx:0.1, fy:0.1, stop:0 white, stop:1 hsv(0, 182, 252));
+}
+
+#btnClose::hover {
+  background-color: hsv(0, 182, 202);
+  border-image: url(":/resources/icon/titlebar/btn_close1.png");
+}
+
+#btnClose::pressed {
+  background-color: hsv(0, 182, 152);
+  border-image: url(":/resources/icon/titlebar/btn_close1.png");
+}
+
+
+/*===================================================*/
+#spacer1, #spacer2, #spacer3, #spacer4, #spacer5,
+#spacer6, #spacer7, #spacer8, #spacer9 {
+  margin: 5px;
+  margin-left: 4px;
+  margin-right: 4px;
+  border-left: 1px $Color_BT;
+  border-right: 1px $Color_BT;
+  border-radius: $Border0;
+  border-style: dashed;
+}
+
+
+/*===================================================*/
+/*  Setting Window */
+/*===================================================*/
+#lblTitle2 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+
+/*===================================================*/
+#wdContent2 {
+  margin-left: 1px;
+  background-color: transparent;
+  border-left: 1px solid $Color_TB;
+  border-right: 1px solid $Color_TB;
+  border-bottom: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+
+/*===================================================*/
+#lbltop {
+  margin-left: 1px;
+  background-color: transparent;
+  border-left: 1px solid $Color_TB;
+  border-right: 1px solid $Color_TB;
+}
+
+/*===================================================*/
+#lbl11, #lbl121, #lbl131, #lbl141, #lbl151,
+#lbl31, #lbl221, #lbl311, #lbl312, #lbl41, #lbl42,
+#lbl511, #lbl521, #lbl523, #lbl524, #lbl531,
+#lbl61, #lbl64, #lbl66,
+#label7a, #label1a, #label2a, #label3a,
+#label4a, #label5a, #label6a, #label523, #label524 {
+  background: $Color_FG;
+}
+
+
+/*===================================================*/
+/*  ColorPicker */
+/*===================================================*/
+#lblTitle3 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+/*===================================================*/
+#ctn3 {
+  margin-left: 1px;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+
+
+/*===================================================*/
+/*  Find & Replace */
+/*===================================================*/
+#lblTitle4 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+/*===================================================*/
+#ctnContent4 {
+  margin-left: 1px;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+
+
+
+/*===================================================*/
+/*  About */
+/*===================================================*/
+#lblTitle5 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+/*===================================================*/
+#ctn5 {
+  margin-left: 1px;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+/*===================================================*/
+#lbl1ab
+{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+
+/*===================================================*/
+/*  Help */
+/*===================================================*/
+#lblTitle6 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+/*===================================================*/
+#ctn6 {
+  margin-left: 1px;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+/*===================================================*/
+#lbl2h, #lbl4h, #lbl6h, #lbl8h, #lbl10h, #lbl14h
+{
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+
+
+/*===================================================*/
+/*  Tutorial */
+/*===================================================*/
+#lblTitle8 {
+  padding-left: 5px;
+  background-color: $Color_TB;
+}
+/*===================================================*/
+#ctn8 {
+  margin-left: 1px;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-bottom-left-radius: $Border5;
+  border-bottom-right-radius: $Border5;
+}
+/*===================================================*/
+#tb1 {
+  font-size: 11px;
+  background-color: transparent;
+  color: $Color_font;
+  border-top: 1px solid $Color_font;
+  border-left: 1px solid $Color_font;
+  border-bottom: 0px;
+  border-right: 0px;
+  gridline-color: $Color_font;
+}
+#btn81, #btn82, #btn83, #btn84, #btn85 {
+  background-color: $Color_TB;
+  border-radius: 0px;
+}
+/*===================================================*/
+#lbl1t, #lbl2t, #lbl3t, #lbl4t, #lbl5t
+{
+  font-size: 18px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl1at
+{
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 15px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl2st, #lbl3st, #lbl4st, #lbl5st
+{
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 15px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl1ct, #lbl1et, #lbl1gt, #lbl1it
+{
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 25px;
+  margin-bottom: 5px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl1kt
+{
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl6st
+{
+  font-size: 14px;
+  font-weight: bold;
+  text-decoration: underline;
+  margin-top: 25px;
+  margin-left: 10px;
+}
+/*===================================================*/
+#lbl2at, #lbl2bt, #lbl2ct, #lbl2dt, #lbl2et, #lbl2ft, #lbl2gt, #lbl2ht,
+#lbl3at, #lbl3bt, #lbl3ct, #lbl3dt, #lbl3et, #lbl3ft,
+#lbl4at, #lbl4bt, #lbl4ct, #lbl4dt, #lbl4et,
+#lbl5at, #lbl5bt, #lbl6at, #lbl6bt
+{
+  font-size: 13px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+
+
+/*===================================================*/
+QLabel {
+  color: $Color_font;
+}
+
+
+/*===================================================*/
+QPushButton {
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  background-color: $Color_FG;
+}
+
+QPushButton:disabled {
+  color: $Color_BD;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  background-color: $Color_FG;
+}
+
+QPushButton::hover {
+  border: 1px solid rgba(120,185,255,250);
+  background-color: rgba(120,185,255,25);
+}
+
+QPushButton::pressed {
+  border: 1px solid rgba(120,185,255,250);
+  background-color: rgba(100,125,255,35);
+}
+
+
+
+/*===================================================*/
+QLineEdit {
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  background: white;
+  background-color: transparent;
+}
+
+QLineEdit:disabled {
+  background: $Color_FG;
+  background-color: $Color_FG;
+}
+
+
+/*===================================================*/
+QTextEdit#txtbox {
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  border-radius: $Border5;
+  background: white;
+  background-color: transparent;
+  opacity: 0.2;
+}
+
+
+QTextEdit#txtbox:hover {
+	border: 1px solid $Color_BD;
+}
+
+QTextEdit#txtbox:focus {
+	border: 1px solid $Color_BD;
+}
+
+
+/*===================================================*/
+QTextEdit#tbwl {
+  color: $Color_font;
+  background-color: $Color_BG;
+  border: 1px solid $Color_BD;
+  border-radius: $Border3;
+}
+
+/*===================================================*/
+
+QTextEdit#tbwl:disabled {
+  background-color: $Color_FG;
+  border: 1px solid $Color_BD;
+  border-radius: $Border3;
+}
+
+
+QTextEdit#tbbl {
+  color: $Color_font;
+  background-color: $Color_BG;
+  border: 1px solid $Color_BD;
+  border-radius: $Border3;
+}
+
+
+QTextEdit#tbbl:disabled {
+  background-color: $Color_FG;
+  border: 1px solid $Color_BD;
+  border-radius: $Border3;
+}
+
+
+/*===================================================*/
+QTextEdit#txtff {
+  color: $Color_font;
+  background-color: $Color_BG;
+  border: 1px solid $Color_TB;
+  border-radius: $Border2;
+}
+
+/*===================================================*/
+QTextEdit#txtff:disabled {
+  color: $Color_font;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-radius: $Border2;
+}
+
+
+/*===================================================*/
+QTextEdit#txtrf {
+  color: $Color_font;
+  background-color: $Color_BG;
+  border: 1px solid $Color_TB;
+  border-radius: $Border2;
+}
+
+/*===================================================*/
+QTextEdit#txtrf:disabled {
+  color: $Color_font;
+  background-color: transparent;
+  border: 1px solid $Color_TB;
+  border-radius: $Border2;
+}
+
+
+
+/*===================================================*/
+QTextEdit QMenu{
+  border: 1px solid $Color_BD;
+  border-radius: $Border0;
+  padding: 0px;
+  margin: 0px;
+}
+
+QTextEdit QMenu::separator {
+  height: 1px;
+}
+
+
+
+
+/*===================================================*/
+/*  General   */
+/*===================================================*/
+
+/*===================================================*/
+QGroupBox {
+  color: $Color_font;
+  background-color: $Color_FG;
+  border: 1px solid $Color_BD;
+  border-radius: $Border3;
+}
+
+QGroupBox::title {
+  background-color: $Color_FG;
+}
+
+
+/*===================================================*/
+QScrollBar:horizontal {
+  background: $Color_TB;
+}
+
+QScrollBar:vertical {
+  background: $Color_TB;
+}
+
+
+
+/*===================================================*/
+QTabWidget::pane {
+    color: $Color_font;
+    border: 1px solid $Color_BD;
+    border-radius: $Border3;
+    background-color: $Color_BG;
+}
+
+QTabBar::tab {
+  color: $Color_font;
+  border-top: 1px solid $Color_BD;
+  border-left: 1px solid $Color_BD;
+  border-right: 1px solid $Color_BD;
+  background-color: $Color_FG;
+  min-width: 55px;
+  padding: 3px;
+  border-top-left-radius: $Border2;
+  border-top-right-radius: $Border2;
+}
+
+QTabBar::tab:selected, QTabBar::tab:hover {
+  color: $Color_font;
+  border-top: 1px solid $Color_BD;
+  border-left: 1px solid $Color_BD;
+  border-right: 1px solid $Color_BD;
+  background-color: $Color_BG;
+}
+
+
+/*===================================================*/
+QComboBox {
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  background-color: $Color_BG;
+}
+
+QComboBox QAbstractItemView  {
+  color: $Color_font;
+  background-color: $Color_BG;
+}
+
+QComboBox:disabled {
+  color: $Color_BD;
+  border: 1px solid $Color_BD;
+  background-color: $Color_BG;
+}
+
+
+/*===================================================*/
+QRadioButton {
+  color: $Color_font;
+  background-color: $Color_FG;
+}
+
+
+/*===================================================*/
+QToolBar {
+  spacing: 1px;
+  background-color: $Color_BG;
+  border-bottom: 1px solid $Color_BD;
+  border-right: 1px solid $Color_BD;
+  qproperty-iconSize: $IconSize;
+  min-height: 30px;
+}
+
+QToolBar QToolButton {
+  background-color: transparent;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  padding-left: 1px;
+}
+
+QToolBar QToolButton:hover {
+  background-color: $Color_toolbar_hover;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  padding-left: 1px;
+}
+
+QToolBar QToolButton:disabled {
+  opacity: 0.1;
+  border: 1px solid $Color_BD;
+  border-radius: $Border2;
+  padding-left: 1px;
+}
+
+
+/*===================================================*/
+QCheckBox {
+  color: $Color_font;
+}
+
+
+/*===================================================*/
+QSlider {
+  border-radius: 10px;
+}
+QSlider::groove:horizontal {
+  height: 4px;
+  background-color: $Color_TB;
+}
+
+QSlider::handle:horizontal{
+  background-color: $Color_BT;
+  width: 14px;
+  height: 14px;
+  margin:-5px 0;
+  border-radius: 7px;
+}
+QSlider::sub-page:horizontal{
+  background: $Color_TB;
+}
+
+QSlider::handle:horizontal:hover {
+  background-color: $Color_TB;
+}
+
+QSlider::handle:horizontal:pressed {
+  background-color: $Color_TB;
+}
+
+
+QSlider::handle:horizontal:disabled {
+  background-color: $Color_BT;
+}
+
+QSlider::groove:horizontal:disabled {
+  background-color: $Color_BT;
+}
+
+QSlider::sub-page:horizontal:disabled{
+  background-color: $Color_BT;
+}
+
+
+QSpinBox {
+  color: $Color_font;
+  border: 1px solid $Color_BD;
+  background-color: $Color_BG;
+}
+
+QSpinBox:disabled {
+  color: #AAAAAA;
+  border: 1px solid $Color_BD;
+  background-color: $Color_BG;
+}
