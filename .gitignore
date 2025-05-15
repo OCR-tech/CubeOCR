@@ -1,3 +1,4 @@
 app/.venv/
 app/.vscode/
 app/scripts/
+app/tesseract/
