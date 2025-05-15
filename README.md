@@ -36,7 +36,8 @@
 Prerequisites:
 - **Operating System**: Windows 10 or newer
 - **Tesseract-OCR**: Version 5.0 or newer [Download](https://github.com/UB-Mannheim/tesseract/wiki)
-- **Python**: Version 3.11 or newer [Download](https://www.python.org/downloads/)
+- **Python**: Version 3.11 or newer
+<!-- [Download](https://www.python.org/downloads/) -->
 <!-- - Python packages: See `requirements.txt` -->
 
 To install this project:
