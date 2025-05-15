@@ -1,4 +1,13 @@
 app/.venv/
 app/.vscode/
+app/build/
+app/dist/
 app/scripts/
 app/tesseract/
+app/tests/test.py
+app/tests/test_py_main_image_processing.py
+app/tests/test_py_window_about.py
+app/tests/test_py_window_colorpicker.py
+app/tests/test_py_window_help.py
+app/tests/test_py_window_main.py
+CubeOCR.spec
