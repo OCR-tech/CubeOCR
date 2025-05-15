@@ -1,4 +1,7 @@
 # CubeOCR
+![License](https://img.shields.io/badge/license-MIT-blue)
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total)
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
@@ -26,16 +29,15 @@
 - **Advanced Image Processing**: Enhance image quality with noise filtering features
 - **Multi-Language Support**: Supports text recognition 107 different languages
 - **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
-- **Offline Usage**: No account sign-in required suitable for privacy data
+- **Offline Usage**: No account sign-in required for user data privacy
 - **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
 
 ## Installation
-
-Prerequisites for Windows:
-- Tesseract-OCR: Version 5.0 or newer [Download](https://github.com/UB-Mannheim/tesseract/wiki)
-- Python: Version 3.11 or newer [Download](https://www.python.org/downloads/)
-- Python packages: See `requirements.txt`
-
+Prerequisites:
+- **Operating System**: Windows 10 or newer
+- **Tesseract-OCR**: Version 5.0 or newer [Download](https://github.com/UB-Mannheim/tesseract/wiki)
+- **Python**: Version 3.11 or newer [Download](https://www.python.org/downloads/)
+<!-- - Python packages: See `requirements.txt` -->
 
 To install this project:
 
@@ -75,7 +77,7 @@ To install this project:
 CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste anywhere.
 
 1. Select a text area on the screen.
-2. Click the "OK" button after the OCR converstion
+2. Click the "OK" button after the OCR conversion
 3. Paste the editable text to other applications
 
 To run this project:
@@ -86,6 +88,7 @@ To run this project:
     python src\main.py
     ```
 
+**Note**: CubeOCR application is available for [download](https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250515.exe) and installation directly on your system.
 
 ## Contributing
 
