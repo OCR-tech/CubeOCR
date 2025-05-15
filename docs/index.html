@@ -68,6 +68,25 @@
             Simply select a text area, perform OCR, and be ready to paste it anywhere.
         </p>
 
+        <center>
+        <form name="ageform2" action="javascript: form_action2()">
+        <button class="btn btn-lg btn-success mt-4 mb-2" type="submit" name="version" value="2" style="width: 230px; height: 50px; font-size: medium; text-align: center;">
+            DOWNLOAD&emsp;<i class="fas fa-download"></i>
+        </button>
+        </form>
+        <p>(385 MB, v1.0.0)</p>
+        <script>
+            function form_action2() {
+                var form = document.forms['ageform2'];
+                var version = form.elements['version'].value;
+                if (version == 2) {
+                    window.location.href = "https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250515.exe";
+                }
+            }
+        </script>
+        </center>
+
+
         <div class="row justify-content-center mt-5 my-4">
             <div class="col-md-5 text-center">
                 <img src="img/text1a.png" class="img-responsive rounded shadow">
@@ -80,6 +99,7 @@
         <div class="text-center mt-5 my-4">
             <center><a href="pages/feature.html" class="btn btn-button btn-lg">Learn More</a></center>
         </div>
+
 
         <p class="text-center mt-5">
             An easy-to-use OCR tool featuring an integrated built-in text editor and support for 107 different languages.
