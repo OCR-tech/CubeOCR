@@ -4042,7 +4042,8 @@ class TextGuiWindow(QMainWindow):
             if self.window3 is not None:
                 self.window3.close()                # ColorPicker
             else:
-                print("Error: self.window3 is None.")
+                # print("Error: self.window3 is None.")
+                pass
             # self.window3.close()
         except:
             pass
@@ -4051,7 +4052,8 @@ class TextGuiWindow(QMainWindow):
             if self.window4 is not None:
                 self.window4.close()                # FindReplace
             else:
-                print("Error: self.window4 is None.")
+                # print("Error: self.window4 is None.")
+                pass
             # self.window4.close()
         except:
             pass

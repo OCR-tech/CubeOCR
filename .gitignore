@@ -1,5 +1,5 @@
-app/.venv/
-app/.vscode/
+.venv/
+.vscode/
 app/build/
 app/dist/
 app/scripts/
