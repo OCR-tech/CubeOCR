@@ -35,7 +35,7 @@
 ## Installation
 Prerequisites:
 - **Operating System**: Windows 10 or newer
-- **Tesseract-OCR**: Version 5.0 or newer [Download](https://github.com/UB-Mannheim/tesseract/wiki)
+- **Tesseract-OCR**: Version 5.0 or newer [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
 - **Python**: Version 3.11 or newer
 <!-- [Download](https://www.python.org/downloads/) -->
 <!-- - Python packages: See `requirements.txt` -->
@@ -63,7 +63,7 @@ To install this project:
 4. Activate the virtual environment:
 
     ```sh
-    .\.venv\Scripts\Activate      # for Windows
+    .\.venv\Scripts\Activate
     ```
     <!-- source venv/bin/activate    # for Linux/macOS -->
 
@@ -89,7 +89,7 @@ To run this project:
     python src\main.py
     ```
 
-**Note**: CubeOCR application is available for [download](https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250515.exe) and installation directly on your system.
+**Note**: CubeOCR application is available for [download](https://github.com/OCR-tech/CubeOCR/releases/latest) and installation directly on your system.
 
 ## Contributing
 
