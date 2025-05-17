@@ -90,7 +90,7 @@ To run this project:
    python src\main.py
    ```
 
-**Note**: CubeOCR application is available for [download](https://github.com/OCR-tech/CubeOCR/releases/latest) and installation directly on your system.
+**Note**: CubeOCR application is available for [[download]](https://github.com/OCR-tech/CubeOCR/releases/latest) and installation directly on your system.
 
 ## Contributing
 
