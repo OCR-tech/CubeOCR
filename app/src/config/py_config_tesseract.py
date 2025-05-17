@@ -62,6 +62,7 @@ def check_tesseract():
         else:
             # If Tesseract path is not found in common installation directories, print a message
             print("Tesseract OCR not found or not installed correctly.")
+            # print("Please install Tesseract OCR in the default installation path.")
             print("Please visit: https://github.com/UB-Mannheim/tesseract/wiki")
             sys.exit(1)
 
