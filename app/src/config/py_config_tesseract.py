@@ -61,9 +61,8 @@ def check_tesseract():
             tesseract_path = os.path.join(os.environ["ProgramData"], "Tesseract-OCR", "tesseract.exe")
         else:
             # If Tesseract path is not found in common installation directories, print a message
-            print("Tesseract OCR path not found or not installed correctly.")
-            print("Please install Tesseract OCR in the default installation path.")
-            print("Visit: https://github.com/UB-Mannheim/tesseract/wiki")
+            print("Tesseract OCR not found or not installed correctly.")
+            print("Please visit: https://github.com/UB-Mannheim/tesseract/wiki")
             sys.exit(1)
 
         # Set the Tesseract path in the environment variables
