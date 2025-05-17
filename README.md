@@ -1,10 +1,10 @@
 # CubeOCR
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total)
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
-
 
 <br>
 <div align="center">
@@ -12,14 +12,12 @@
 </div>
 <br>
 
-
 <!-- <br/>
 <div align="center">
 <img src="docs/img/text1a.png" style="width:48%; height:auto;">&emsp;
 <img src="docs/img/text1b.png" style="width:48%; height:auto;">
 </div>
 <br/> -->
-
 
 ## Key Features
 
@@ -33,45 +31,48 @@
 - **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
 
 ## Installation
+
 Prerequisites:
+
 - **Operating System**: Windows 10 or newer
 - **Tesseract-OCR**: Version 5.0 or newer [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
 - **Python**: Version 3.11 or newer
-<!-- [Download](https://www.python.org/downloads/) -->
-<!-- - Python packages: See `requirements.txt` -->
+  <!-- [Download](https://www.python.org/downloads/) -->
+  <!-- - Python packages: See `requirements.txt` -->
 
 To install this project:
 
 1. Clone the repository:
 
-    ```sh
-    git clone https://github.com/your-username/your-repository.git
-    ```
+   ```sh
+   git clone https://github.com/OCR-tech/CubeOCR.git
+   ```
 
 2. Navigate to the project directory:
 
-    ```sh
-    cd your-repository
-    ```
+   ```sh
+   cd CubeOCR
+   ```
 
 3. Create a virtual environment:
 
-    ```sh
-    python -m venv .venv
-    ```
+   ```sh
+   python -m venv .venv
+   ```
 
 4. Activate the virtual environment:
 
-    ```sh
-    .\.venv\Scripts\Activate
-    ```
-    <!-- source venv/bin/activate    # for Linux/macOS -->
+   ```sh
+   .\.venv\Scripts\Activate
+   ```
+
+   <!-- source venv/bin/activate    # for Linux/macOS -->
 
 5. Install the dependencies:
 
-    ```sh
-    pip install -r requirements.txt
-    ```
+   ```sh
+   pip install -r requirements.txt
+   ```
 
 ## Usage
 
@@ -85,30 +86,31 @@ To run this project:
 
 1. Run the main application:
 
-    ```sh
-    python src\main.py
-    ```
+   ```sh
+   python src\main.py
+   ```
 
 **Note**: CubeOCR application is available for [download](https://github.com/OCR-tech/CubeOCR/releases/latest) and installation directly on your system.
 
 ## Contributing
 
 For contributions, please follow the steps below:
+
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature-branch`).
 3. Commit your changes (`git commit -m 'Add new feature'`).
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a new pull request.
 
-
 ## License
+
 - This project is licensed under the [MIT License](https://github.com/OCR-tech/CubeOCR/blob/main/LICENSE).
 - This project depends on other software and packages:
-    - [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract) uses the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
-    - [Leptonica library](http://www.leptonica.org/) uses the [BSD 2-clause License](http://www.leptonica.org/about-the-license.html).
-
+  - [Tesseract-OCR](https://github.com/UB-Mannheim/tesseract) uses the [Apache License](http://www.apache.org/licenses/LICENSE-2.0).
+  - [Leptonica library](http://www.leptonica.org/) uses the [BSD 2-clause License](http://www.leptonica.org/about-the-license.html).
 
 ## Contact
--  For any inquiries, please contact us at: ocrtech.mail@gmail.com
--  Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
--  GitHub: [https://github.com/OCR-tech](https://github.com/OCR-tech)
+
+- For any inquiries, please contact us at: ocrtech.mail@gmail.com
+- Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
+- GitHub: [https://github.com/OCR-tech](https://github.com/OCR-tech)
