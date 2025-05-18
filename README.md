@@ -84,13 +84,15 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 
 To run this project:
 
-1. Run the main application:
+1. Run the main application from the command line:
 
    ```sh
-   python src\main.py
+   python app\main.py
    ```
 
-**Note**: CubeOCR application is available for [[download]](https://github.com/OCR-tech/CubeOCR/releases/latest) and installation directly on your system.
+**Note**: CubeOCR application is available for [[download]](https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250517.exe) and installation directly on your system.
+
+<!-- https://github.com/OCR-tech/CubeOCR/releases/latest -->
 
 ## Contributing
 
