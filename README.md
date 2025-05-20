@@ -1,7 +1,7 @@
 # CubeOCR
 
-![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![License](https://img.shields.io/badge/license-MIT-blue)
 ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total)
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
