@@ -32,7 +32,7 @@
 - **Multi-Language Support**: Supports text recognition 107 different languages
 - **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
 - **Offline Usage**: No account sign-in required for user data privacy
-- **Hotkeys**: Activate OCR Screen, easily copy and paste to other applications
+- **Hotkeys**: Activate OCR screen, easily copy and paste to other applications
 
 ## Installation
 
