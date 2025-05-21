@@ -25,8 +25,7 @@
 
 ## Key Features
 
-<!-- - **User-Friendly Interface**: Simple and intuitive interface for easy use -->
-
+- **User-Friendly Interface**: Simple and intuitive interface for easy use
 - **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort
 - **Transparent Background**: Suitable for side by side paragraphs and code editing
 - **Advanced Image Processing**: Enhance image quality with noise filtering features
