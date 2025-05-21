@@ -11,10 +11,10 @@
     <img src="docs/img/text1a.png" style="width:450px; height:auto; min-width:35%">
 </div>
 <br>
-<div align="center">
+<!-- <div align="center">
     <img src="docs/img/text3a.png" style="width:450px; height:auto; min-width:35%">
 </div>
-<br>
+<br> -->
 
 <!-- <br/>
 <div align="center">
