@@ -93,7 +93,7 @@ To run this project:
 1. Run the main application from the command line:
 
    ```sh
-   python app\main.py
+   python .\app\main.py
    ```
 
 **Note**: CubeOCR application is available for [[download]](https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250517.exe) and installation directly on your system.
