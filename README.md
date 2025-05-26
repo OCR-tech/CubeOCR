@@ -73,8 +73,6 @@ To install this project:
    .\.venv\Scripts\Activate
    ```
 
-   <!-- source venv/bin/activate    # for Linux/macOS -->
-
 5. Install the dependencies:
 
    ```sh
