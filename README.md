@@ -3,8 +3,9 @@
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR)
-![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total)
-![Release](https://img.shields.io/github/v/release/OCR-tech/CubeOCR?include_prereleases)
+
+<!-- ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total) -->
+<!-- ![Release](https://img.shields.io/github/v/release/OCR-tech/CubeOCR?include_prereleases) -->
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
@@ -96,9 +97,10 @@ To run this project:
    python app/main.py
    ```
 
-**Note**: CubeOCR application is available for [[download]](https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250517.exe) and installation directly on your system.
+**Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
 
 <!-- https://github.com/OCR-tech/CubeOCR/releases/latest -->
+<!-- https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250517.exe -->
 
 ## Contributing
 
