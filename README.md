@@ -2,7 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR)
+
+<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR) -->
 
 <!-- ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total) -->
 <!-- ![Release](https://img.shields.io/github/v/release/OCR-tech/CubeOCR?include_prereleases) -->
@@ -11,7 +12,7 @@
 
 <br>
 <div align="center">
-    <img src="docs/img/text1a.png" style="width:450px; height:auto; min-width:35%">
+    <img src="docs/img/text1c.png" style="width:450px; height:auto; min-width:35%">
 </div>
 <br>
 <!-- <div align="center">
