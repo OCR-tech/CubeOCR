@@ -10,7 +10,7 @@ Thank you for considering contributing to **CubeOCR**.
 
 There are several ways to contribute:
 
-- Reporting and Fixing Bugs
+- Reporting Issues
 - Suggesting Features
 - Improving Documentation
 - Sharing Use Cases
@@ -20,21 +20,15 @@ There are several ways to contribute:
 
 If you find a bug or an issue:
 
-1. **Check Existing Issues**: check if the issue hasn't already been reported.
-2. **Create a New Issue**: If not found, open a new issue with:
-   - A descriptive title.
-   - A detailed description of the issue.
-   - Any relevant screenshots, logs, error messages, and environment.
+1. **Check Existing Issues**: Check if the issue hasn't already been reported.
+2. **Create a New Issue**: Provide a descriptive title, detailed descriptions, relevant information (screenshots, error messages, environment).
 
 ## 💡 Suggesting Features
 
 To propose a new feature:
 
-1. **Check Existing Requests**: check if the feature hasn't already been proposed.
-2. **Create a New Requests**: If not found, open a new request with:
-   - A descriptive title.
-   - A detailed description of the feature.
-   - The use case and how it would benefit users.
+1. **Check Existing Requests**: Check if the feature hasn't already been proposed.
+2. **Create a New Requests**: Provide a descriptive title, detailed descriptions, relevant information about the feature.
 
 ## 🚀 Submitting Code
 
@@ -49,13 +43,11 @@ To contribute code or documentation:
 7. **Open a Pull Request**: Go to the original repository and open a pull request from your forked repository.
 8. **Describe Your Changes**: In the PR description, provide a detailed description of your changes.
 
-## ❓ Questions
-
-If you have any questions, please contact us at: ocrtech.mail@gmail.com
-
 ## 🎉 Thank you
 
 Thank you for contributing to **CubeOCR**. We appreciate your contributions and look forward to collaborating with you.
+
+<br>
 
 ---
 
