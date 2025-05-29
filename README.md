@@ -80,6 +80,12 @@ To install this project:
    pip install -r requirements.txt
    ```
 
+6. Run the application:
+
+   ```sh
+   python app/main.py
+   ```
+
 ## Usage
 
 CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste anywhere.
@@ -87,14 +93,6 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 1. Select a text area on the screen.
 2. Click the "OK" button after the OCR conversion
 3. Paste the editable text to other applications
-
-To run this project:
-
-1. Run the main application from the command line:
-
-   ```sh
-   python app/main.py
-   ```
 
 **Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
 
