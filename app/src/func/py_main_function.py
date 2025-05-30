@@ -72,7 +72,7 @@ class UIFunctions(MainGuiWindow):
         """
         Detects the orientation and script direction of the selected image using Tesseract OSD.
         """
-        from src.module.py_window_main import flag_config, flag_language
+        # from src.module.py_window_main import flag_config, flag_language
         global text
         global img1
 
@@ -153,7 +153,6 @@ class UIFunctions(MainGuiWindow):
 
         time_end = time.time()
         print("*** detect_text_ocr (end): %0.3f seconds ***" %(time_end - time_start))
-        # print("====================================================================")
 
     #//===================================================//
     def remove_ExtraCRLF(self):
