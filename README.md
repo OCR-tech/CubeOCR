@@ -4,7 +4,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 <!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR) -->
-
 <!-- ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total) -->
 <!-- ![Release](https://img.shields.io/github/v/release/OCR-tech/CubeOCR?include_prereleases) -->
 
@@ -15,17 +14,6 @@
     <img src="docs/img/text1c.png" style="width:450px; height:auto; min-width:35%">
 </div>
 <br>
-<!-- <div align="center">
-    <img src="docs/img/text3a.png" style="width:450px; height:auto; min-width:35%">
-</div>
-<br> -->
-
-<!-- <br/>
-<div align="center">
-<img src="docs/img/text1a.png" style="width:48%; height:auto;">&emsp;
-<img src="docs/img/text1b.png" style="width:48%; height:auto;">
-</div>
-<br/> -->
 
 ## Key Features
 
@@ -94,9 +82,6 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 3. Paste the editable text to other applications
 
 **Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
-
-<!-- https://github.com/OCR-tech/CubeOCR/releases/latest -->
-<!-- https://github.com/OCR-tech/CubeOCR/releases/download/v1.0.0/CubeOCR_v1.0.0_20250517.exe -->
 
 ## Contributing
 
