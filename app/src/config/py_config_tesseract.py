@@ -1,7 +1,7 @@
 # //===================================================//
 # Tesseract-OCR is an open-source OCR engine used to extract text from images.
 # Ensure that Tesseract-OCR is installed in the default Tesseract-OCR installation path.
-# If Tesseract-OCR is not installed, please visit the following link to download and install it:
+# If Tesseract-OCR is not installed, please visit for download and installation instructions:
 # https://github.com/UB-Mannheim/tesseract/wiki
 
 
@@ -11,14 +11,12 @@
 # 2) set the `tesseract_user_path` variable to the full path of the `tesseract.exe` executable file.
 
 # Step 1:
-# flag_user_path = False      # Use the default Tesseract-OCR installation path
-flag_user_path = True     # Use the user Tesseract-OCR installation path
+flag_user_path = False    # Use the default Tesseract-OCR installation path
+# flag_user_path = True       # Use the user Tesseract-OCR installation path
 
 # Step 2:
-tesseract_user_path = r'C:/Program Files/Tesseract-OCR/tesseract.exe'           # Change this to your Tesseract-OCR installation path
-# tesseract_user_path = r'C:/Program Files (x86)/Tesseract-OCR/tesseract.exe'   # Change this to your Tesseract-OCR installation path
-
-
+tesseract_user_path = r'C:/Program Files/Tesseract-OCR/tesseract.exe'     # Change this to your Tesseract-OCR installation path
+# tesseract_user_path = r'tesseract/tesseract.exe'                        # Change this to your Tesseract-OCR installation path
 
 # //===================================================//
 # Import necessary libraries and modules
@@ -61,9 +59,7 @@ def check_tesseract():
             tesseract_path = os.path.join(os.environ["ProgramData"], "Tesseract-OCR", "tesseract.exe")
         else:
             # If Tesseract path is not found in common installation directories, print a message
-            print("Tesseract OCR not found or not installed correctly.")
-            # print("Please install Tesseract OCR in the default installation path.")
-            print("Please visit: https://github.com/UB-Mannheim/tesseract/wiki")
+            print("Please reinstall Tesseract OCR in the default installation path of Tesseract OCR.")
             sys.exit(1)
 
         # Set the Tesseract path in the environment variables
