@@ -3,7 +3,7 @@
 app/build/
 app/dist/
 app/scripts/
-app/tesseract/
+app/Tesseract-OCR/
 app/tests/test.py
 app/tests/test_py_main_image_processing.py
 app/tests/test_py_window_about.py

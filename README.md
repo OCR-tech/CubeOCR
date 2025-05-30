@@ -43,7 +43,7 @@
 Prerequisites:
 
 - **Operating System**: Windows 10 or newer
-- **Tesseract-OCR** >= 5.0 [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
+- **Tesseract-OCR** >= 5.0 () [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
 - **Python** >= 3.11
   <!-- - Python packages: See `requirements.txt` -->
 
