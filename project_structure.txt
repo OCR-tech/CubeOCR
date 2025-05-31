@@ -1,0 +1,23 @@
+# CubeOCR/
+# ├── app/                              # Main application directory
+# │ ├── main.py                         # Entry point for the application
+# │ └── src/                            # Source code for the application
+# │ │ └── config
+# │ │ └── func
+# │ │ └── module
+# │ │ └── resource
+# │ ├── test/                           # Test files
+# │ ├── resources/                      # Resources for application
+# ├── docs/                             # Documentation files
+# │ ├── css/
+# │ ├── img/
+# │ ├── js/
+# │ ├── pages/
+# │ └── index.html                      # Main landing page for documentation
+# ├── requirements.txt                  # Python dependencies
+# ├── project_structure.txt             # Project structure
+# ├── README.md                         # Project documentation
+# ├── CONTRIBUTING.md                   # Guidelines for contributing to the project
+# ├── CODE_OF_CONDUCT.md                # Code of conduct for the project
+# ├── LICENSE                           # License file
+# └── .gitignore                        # Specifies files to ignore in Git tracking

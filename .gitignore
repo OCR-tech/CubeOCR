@@ -10,4 +10,5 @@ app/tests/test_py_window_about.py
 app/tests/test_py_window_colorpicker.py
 app/tests/test_py_window_help.py
 app/tests/test_py_window_main.py
-CubeOCR.spec
+app/CubeOCR.spec
+project_structure.md

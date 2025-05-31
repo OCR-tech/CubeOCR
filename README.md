@@ -2,8 +2,8 @@
 
 ![Python](https://img.shields.io/badge/python-3.11%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR)
 
-<!-- ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=OCR-tech.CubeOCR) -->
 <!-- ![Downloads](https://img.shields.io/github/downloads/OCR-tech/CubeOCR/total) -->
 <!-- ![Release](https://img.shields.io/github/v/release/OCR-tech/CubeOCR?include_prereleases) -->
 
@@ -17,22 +17,23 @@
 
 ## Key Features
 
-- **User-Friendly Interface**: Simple and intuitive interface for easy use
-- **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort
-- **Transparent Background**: Suitable for side-by-side paragraphs and code editing
-- **Advanced Image Processing**: Enhance image quality with noise filtering features
-- **Multi-Language Support**: Supports text recognition 107 different languages
-- **Output Formats**: Supports various output formats: plain text, PDF, and Word documents
-- **Offline Usage**: No account sign-in required for user data privacy
-- **Hotkeys**: Activate OCR screen, easily copy and paste to other applications
+- **User-Friendly Interface**: Simple and intuitive interface for easy use.
+- **Integrated Text Editor with Built-in Toolbar**: Capable of processing editable text, saving time and effort.
+- **Transparent Background**: Suitable for side-by-side paragraphs and code editing.
+- **Advanced Image Processing**: Enhance image quality with noise filtering features.
+- **Multi-Language Support**: Supports text recognition 107 different languages.
+- **Output Formats**: Supports various output formats: plain text, PDF, and Word documents.
+- **Offline Usage**: No account sign-in required for user data privacy.
+- **Hotkeys**: Activate OCR screen, easily copy and paste to other applications.
 
 ## Installation
 
 Prerequisites:
 
 - **Operating System**: Windows 10 or newer
-- **Tesseract-OCR** >= 5.0 () [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
+- **Tesseract-OCR** >= 5.0 [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
 - **Python** >= 3.11
+  <!-- - **Python** >= 3.11 [[download]](https://www.python.org/downloads/) -->
   <!-- - Python packages: See `requirements.txt` -->
 
 To install this project:
@@ -78,8 +79,8 @@ To install this project:
 CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documents, PDF files, or images. Simply select a text area, perform OCR, and be ready to paste anywhere.
 
 1. Select a text area on the screen.
-2. Click the "OK" button after the OCR conversion
-3. Paste the editable text to other applications
+2. Click the "OK" button after the OCR conversion.
+3. Paste the editable text to other applications.
 
 **Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
 
