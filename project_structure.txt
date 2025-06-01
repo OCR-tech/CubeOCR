@@ -8,12 +8,10 @@
 # │ │ └── resource
 # │ ├── test/                           # Test files
 # │ ├── resources/                      # Resources for application
-# ├── public/                             # Documentation files
-# │ ├── css/
-# │ ├── img/
-# │ ├── js/
-# │ ├── pages/
+# ├── docs/                             # Documentation files
+# │ │ └── public/
 # │ └── index.html                      # Main landing page for documentation
+# │ └── doc.md                          # Documentation
 # ├── requirements.txt                  # Python dependencies
 # ├── project_structure.txt             # Project structure
 # ├── README.md                         # Project documentation
