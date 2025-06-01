@@ -8,7 +8,7 @@
 # │ │ └── resource
 # │ ├── test/                           # Test files
 # │ ├── resources/                      # Resources for application
-# ├── docs/                             # Documentation files
+# ├── public/                             # Documentation files
 # │ ├── css/
 # │ ├── img/
 # │ ├── js/

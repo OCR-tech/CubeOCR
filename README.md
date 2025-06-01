@@ -11,7 +11,7 @@
 
 <br>
 <div align="center">
-    <img src="docs/img/text1c.png" style="width:450px; height:auto; min-width:35%">
+    <img src="public/img/text1c.png" style="width:450px; height:auto; min-width:35%">
 </div>
 <br>
 
