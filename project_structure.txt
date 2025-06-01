@@ -9,7 +9,7 @@
 # │ ├── test/                           # Test files
 # │ ├── resources/                      # Resources for application
 # ├── docs/                             # Documentation files
-# │ │ └── public/
+# │ │ └── public/                       # Public files for Website
 # │ └── index.html                      # Main landing page for documentation
 # │ └── doc.md                          # Documentation
 # ├── requirements.txt                  # Python dependencies

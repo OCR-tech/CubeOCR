@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.css">
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="../css/style.css">
+
+    <!-- jQuery library -->
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script src="../js/include-html.min.js"></script>
+
+    <link rel="icon" type="image/x-icon" href="../img/favicon3.ico">
+
+    <title>Tutorial</title>
+</head>
+
+<body>
+    <!-- Header -->
+    <header class="bg-primary text-white py-1">
+        <div class="container ">
+
+                <a href="../index.html">
+                    <center><img src="../img/logo1.png" class="logo1"></center>
+                </a>
+
+                <nav>
+                    <center>
+                    <a href="../index.html" class="btn btn-primary mx-1">Home</a>
+                    <a href="feature.html" class="btn btn-primary mx-1">Features</a>
+                    <a href="screenshot.html" class="btn btn-primary mx-1">Screenshot</a>
+                    <a href="tutorial.html" class="btn btn-primary mx-1">Tutorial</a>
+                    <a href="setting.html" class="btn btn-primary mx-1">Settings</a>
+                    <a href="contact.html" class="btn btn-primary mx-1">Contact</a>
+                    </center>
+                </nav>
+        </div>
+    </header>
+
+
+
+
+    
+
+    <!-- Main Content -->
+    <main class="container my-5">
+        <h3 class="h3-responsive text-md-left mb-3">Tutorial</h3>
+
+        <div class="line-title"></div>
+
+        <div class="container">
+            <h5><b>How to Use:</b></h5>
+            <ol>
+                <li> Run the app. The system tray icon will appear in the bottom-right of the screen. </li>
+                <li> Click on the system tray icon to activate the OCR screen (or use the keyboard shortcut "<b>Ctrl</b>+<b>Alt</b>" or "<b>Ctrl</b>+<b>Windows</b>"). </li>
+                <li> Select the text area on the computer screen (click at the top-left corner, drag to the bottom-right corner, and release the mouse). </li>
+                <li> The text editor will pop up with editable text after the OCR conversion. </li>
+                <li> Verify and edit the text using the built-in toolbar. </li>
+                <li> Click the <b>"OK"</b> button to finish (or click the <b>"Continue"</b> button to proceed to the next selection). </li>
+                <li> Paste the text into other text editors or appropriate applications as needed. </li>
+            </ol>
+
+            <div class="line"></div>
+
+            <h5><b>Keyboard Shortcuts:</b></h5>
+            <ul class="ul">
+                <li> <b>Ctrl</b>+<b>Alt</b> or <b>Ctrl</b>+<b>Windows</b>: Activate OCR screen </b></li>
+                <li> <b>Right</b>-<b>click</b>: Deactivate OCR screen </li>
+                <li> <b>Double</b>-<b>click</b>: Show Settings window</li>
+                <li> <b>Ctrl</b>+<b>Q</b>: Exit program</li>
+                <li> <b>Esc</b>: Close window</li>
+            </ul>
+
+            <div class="line"></div>
+
+            <h5><b>Shortcuts for Text Editor:</b></h5>
+
+            <div class="table" include-html="form_hotkey.html" id="form_hotkey_file" style="width: 100%;"></div>
+
+            <div class="line"></div>
+
+
+
+
+            <h5><b>Settings Window:</b></h4>
+
+            <p class="p5 mt-2 mb-2"><b><u>OCR Settings</u></b></p>
+            <ul class="ul">
+                <li><b>Languages</b>: Select for OCR languages</li>
+                <li><b>System Languages</b>: Select for system locale default language</li>
+                <li><b>Math & Equation</b>: Select for math and equations for OCR detection</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Text Layout</u></b></p>
+            <ul class="ul">
+                <li><b>Auto</b>: Select for automatic text layout detection</li>
+                <li><b>Single Character</b>: Select for only single character</li>
+                <li><b>Single Word</b>: Select for only single word character</li>
+                <li><b>Single Line</b>: Select for only single line character</li>
+                <li><b>Sparse Text</b>: Select for spread or distributed text layout</li>
+                <li><b>Vertical Text</b>: Select for vertical text layout</li>
+                <li><b>Single Column</b>: Select for single column layout</li>
+                <li><b>Multiple Column</b>: Select for multiple column layout</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Detected Text</u></b></p>
+            <ul class="ul">
+                <li><b>Select All</b>: Select for all detected text options</li>
+                <li><b>Custom</b>: Select for customized detected text options</li>
+                <li class="mx-4"><b>Lower Cases</b>: Select for lower case letters (a to z)</li>
+                <li class="mx-4"><b>Upper Cases</b>: Select for upper case letters (A to Z)</li>
+                <li class="mx-4"><b>Letters</b>: Select for alphabet letters of OCR languages</li>
+                <li class="mx-4"><b>Numbers</b>: Select for digit numbers (0 to 9)</li>
+                <li class="mx-4"><b>Punctuation</b>: Select for punctuation</li>
+                <li class="mx-4"><b>Special Characters</b>: Select for special characters</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Output Save as</u></b></p>
+            <ul class="ul">
+                <li><b>Text</b>: Select for plain text or rich text format (.txt, .rtf, .odt, .doc, .docx)</li>
+                <li><b>PDF</b>: Select for PDF format (.pdf)</li>
+                <li><b>Spreadsheet</b>: Select for spreadsheet format (.xlsx, .xls, .csv, .ods)</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Optimization</u></b></p>
+            <ul class="ul">
+                <li><b>Standard</b>: Select for standard performance of OCR optimization</li>
+                <li><b>Speed</b>: Select for high speed performance with less accuracy</li>
+                <li><b>Accuracy</b>: Select for high accuracy performance with slow speed</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Page Layout</u></b></p>
+            <ul class="ul">
+                <li><b>Auto-Rotate Page</b>: Select for auto-rotate page</li>
+                <li><b>Auto-Deskew</b>: Select for auto-deskew</li>
+                <li><b>Decolumnize</b>: Select to decolumnize multiple columns to single column</li>
+                <li><b>Remove Table</b>: Select to remove tables</li>
+                <li><b>Remove Watermarks</b>: Select to remove watermarks</li>
+                <li><b>Remove Underlines</b>: Select to remove underlines</li>
+                <li><b>Remove Extra Spaces</b>: Select to remove extra spaces</li>
+                <li><b>Remove Empty Lines</b>: Select to remove empty lines</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Image Enhancement</u></b></p>
+            <ul class="ul">
+                <li><b>Despeckle</b>: Select to remove speckle noise</li>
+                <li><b>Invert Color</b>: Select to invert color</li>
+                <li><b>Threshold Binary</b>: Select to apply binary threshold</li>
+                <li><b>Threshold Adaptive</b>: Select to apply adaptive threshold</li>
+                <li><b>Sharpen</b>: Select to sharpen the image</li>
+                <li><b>Contrast</b>: Select to increase the contrast</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Image Filtering</u></b></p>
+            <ul class="ul">
+                <li><b>Background Noise</b>: Select to remove background noise</li>
+                <li><b>Text Noise</b>: Select to remove text noise</li>
+                <li><b>Text Erosion</b>: Select to apply text erosion</li>
+                <li><b>Text Dilation</b>: Select to apply text dilation</li>
+                <li><b>Threshold</b>: Select to apply basic threshold with a low and high threshold value</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Recognition</u></b></p>
+            <ul class="ul">
+                <li><b>Whitelist</b>: Select to specify a list of characters that are allowed to be recognized</li>
+                <li><b>Blacklist</b>: Select to specify a list of characters that are excluded from the output</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Theme</u></b></p>
+            <ul class="ul">
+                <li><b>Theme Color</b>: Select to set theme color for Light mode and Dark mode</li>
+                <li><b>Custom Color</b>: Select to set custom theme color for Light mode and Dark mode</li>
+                <li><b>Rubber Band</b>: Select to set thickness, opacity, and color of the rubber band</li>
+            </ul>
+
+            <p class="p5 mt-2 mb-2"><b><u>Misc</u></b></p>
+            <ul class="ul">
+                <li><b>System Setting</b>: Select to set font size and border style</li>
+                <li><b>Text Editor</b>: Select to set icon size, status bar, toggle mode</li>
+                <li><b>About</b>: Select to display software information and license status</li>
+                <li><b>License</b>: Select to activate product key and software license file</li>
+                <li><b>Tutorial</b>: Select to display tutorial information</li>
+                <li><b>Help</b>: Select to display information on how to use the software</li>
+            </ul>
+
+            <div class="line"></div>
+
+            <h5><b>How to Show System Tray Icon:</b></h5>
+            <ol>
+                <li> Press <b>Windows</b>+<b>I</b> to open the Settings window, and go to <b>"Personalization"</b> and <b>"Taskbar"</b>. </li>
+                <li> Under the <b>"Notification area"</b>, click on <b>"Select which icons appear on the taskbar"</b>, and turn on CubeOCR to show the System Tray Icon. </li>
+            </ol>
+
+            
+        </div>
+
+        <center><button class="btn btn-button btn-block mt-5" onclick="window.scrollTo(0, 0)" style="width: 125px; height: 40px;">Top</button></center>
+
+
+    </main>
+
+
+
+   
+
+    <!-- Footer -->
+    <footer class="bg-primary text-white py-3">
+        <div class="container d-flex justify-content-between align-items-center">
+            <div>
+                <a href="../index.html" class="text-white mx-2">Home</a>
+                <span>|</span>
+                <a href="terms.html" class="text-white mx-2">Terms</a>
+                <span>|</span>
+                <a href="policy.html" class="text-white mx-2">Privacy Policy</a>
+                <span>|</span>
+                <a href="contact.html" class="text-white mx-2">Contact</a>
+            </div>
+        </div>
+    </footer>
+
+
+</body>
+
+</html>
