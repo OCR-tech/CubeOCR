@@ -19,7 +19,7 @@ CubeOCR is an easy-to-use OCR (Optical Character Recognition) application. It al
 
 ### Installation:
 
-1. Download and install CubeOCR from the [official website](https://ocr-tech.github.io/CubeOCR/index.html)
+1. Download and install CubeOCR from the [website](https://ocr-tech.github.io/CubeOCR/index.html)
 2. Run the `CubeOCR.exe` file to start the application.
 
 ### Usage Instructions:
