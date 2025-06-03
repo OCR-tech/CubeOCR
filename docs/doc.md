@@ -36,11 +36,10 @@ CubeOCR is an easy-to-use OCR (Optical Character Recognition) application. It al
 
 ### Keyboard Shortcuts:
 
-- **Ctrl+Alt** or **Ctrl+Windows**: Activate OCR screen
-- **Right-click**: Deactivate OCR screen
-- **Double-click**: Show Settings window
-- **Ctrl+Q**: Exit program
-- **Esc**: Close window
+- **'Ctrl+Alt'** or **'Ctrl+Windows'**: Activate OCR screen
+- **'Right-click'** or **'Esc'**:: Deactivate OCR screen
+- **'Double-click'**: Show Settings window
+- **'Ctrl+Q'**: Exit program
 
 ### Additional Tips:
 

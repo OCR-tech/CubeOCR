@@ -81,12 +81,8 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 1. Select a text area on the screen.
 2. Click the "OK" button after the OCR conversion.
 3. Paste the editable text to other applications.
-
-Keyboard Shortcuts:
-
-- **'Ctrl+Windows'** or **'Ctrl+Alt'**: Activate OCR screen
-- **'Right-click'** or **'Esc'**: Deactivate OCR screen
-- **'Ctrl+Q'**: Exit program
+4. Use the built-in text editor to edit the recognized text.
+5. Use the system tray icon for quick access to the application.
 
 **Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
 
