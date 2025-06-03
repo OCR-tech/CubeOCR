@@ -36,7 +36,7 @@ Prerequisites:
   <!-- - **Python** >= 3.11 [[download]](https://www.python.org/downloads/) -->
   <!-- - Python packages: See `requirements.txt` -->
 
-To install this project:
+To install and run this project:
 
 1. Clone the repository:
 
