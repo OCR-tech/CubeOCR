@@ -89,7 +89,7 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 4. Use the built-in text editor to edit the recognized text.
 5. Use the system tray icon for quick access to the application.
 
-**Note**: CubeOCR application is available for [[download]](https://ocr-tech.github.io/CubeOCR) and installation directly on your system.
+**Note**: CubeOCR is available for installation on Windows [[download]](https://ocr-tech.github.io/CubeOCR).
 
 ## Contributing
 
