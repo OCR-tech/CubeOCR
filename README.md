@@ -110,6 +110,8 @@ For contributions, please follow the steps below:
 
 ## Contact
 
-- For any inquiries, please contact us at: ocrtech.mail@gmail.com
+<!-- - For any inquiries, please contact us: -->
+
+- Email: ocrtech.mail@gmail.com
 - Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
 - GitHub: [https://github.com/OCR-tech](https://github.com/OCR-tech)
