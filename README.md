@@ -9,11 +9,15 @@
 
 **CubeOCR** project is a Python-based screenshot OCR tool designed to convert scanned documents, PDF files, or images, into editable text.
 
-<br>
-<div align="center">
-    <img src="docs/public/img/text1c.png" style="width:450px; height:auto; min-width:35%">
-</div>
-<br>
+<!-- ![CubeOCR Screenshot](docs/public/img/text1c.png) -->
+
+<p align="center">
+  <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot" />
+</p>
+
+<!-- <div align="center">
+    <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot" style="width:450px; height:auto; min-width:35%">
+</div> -->
 
 ## Key Features
 
@@ -30,11 +34,12 @@
 
 Prerequisites:
 
-- **Operating System**: Windows 10 or newer
+- **Operating System**: Windows 10 or newer.
 - **Tesseract-OCR** >= 5.0 [[download]](https://github.com/UB-Mannheim/tesseract/wiki)
 - **Python** >= 3.11
-  <!-- - **Python** >= 3.11 [[download]](https://www.python.org/downloads/) -->
-  <!-- - Python packages: See `requirements.txt` -->
+    <!-- - **Python** >= 3.11 [[download]](https://www.python.org/downloads/) -->
+    <!-- - Python packages: See `requirements.txt` -->
+  <!-- Note: Ensure that Tesseract-OCR is installed in the default Tesseract-OCR installation path. -->
 
 To install and run this project:
 
