@@ -15,7 +15,7 @@
   <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot" />
 </p>
 <p align="center">
-<img src="docs/public/img/main1b.png" alt="CubeOCR Screenshot" style="max-width:100%; height:auto; width:100%; max-width:650px;" />
+<img src="docs/public/img/main1b.png" alt="CubeOCR Screenshot" style="max-width:100%; height:auto; width:100%; max-width:500px;" />
 </p>
 <!-- <div align="center">
     <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot" style="width:450px; height:auto; min-width:35%">
