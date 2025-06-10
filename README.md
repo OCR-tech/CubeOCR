@@ -12,7 +12,7 @@
 <!-- ![CubeOCR Screenshot](docs/public/img/text1c.png) -->
 
 <p align="center">
-  <img src="docs/public/img/text1c.png" alt="Screenshot1" style="max-width:100%; height:auto; width:450px;" />
+  <img src="docs/public/img/text1c.png" alt="Screenshot1" style="max-width:100%; height:auto; width:400px;" />
 </p>
 <p align="center">
 <img src="docs/public/img/main1b.png" alt="Screenshot2" style="max-width:100%; height:auto; width:650px;" />
