@@ -95,7 +95,7 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 
 ## Contributing
 
-- Please read the [CONTRIBUTING](CONTRIBUTING.md) for detailed guidelines.
+- See the [CONTRIBUTING](CONTRIBUTING.md) for detailed guidelines.
 
 ## License
 
