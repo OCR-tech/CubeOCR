@@ -12,10 +12,10 @@
 <!-- ![CubeOCR Screenshot](docs/public/img/text1c.png) -->
 
 <p align="center">
-  <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot1" />
+  <img src="docs/public/img/text1c.png" alt="Screenshot1" />
 </p>
 <p align="center">
-<img src="docs/public/img/main1b.png" alt="CubeOCR Screenshot2" style="max-width:100%; height:auto; width:100%; max-width:500px;" />
+<img src="docs/public/img/main1b.png" alt="Screenshot2" style="max-width:500px; height:auto; width:100%; " />
 </p>
 <!-- <div align="center">
     <img src="docs/public/img/text1c.png" alt="CubeOCR Screenshot" style="width:450px; height:auto; min-width:35%">
