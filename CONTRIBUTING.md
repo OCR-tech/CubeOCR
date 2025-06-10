@@ -35,12 +35,12 @@ To propose a new feature:
 To contribute code or documentation:
 
 1. **Fork the Repository**: Create your own copy of the repository.
-2. **Create a New Branch**: Create a new branch for your changes. Use a descriptive name.
+2. **Create a New Branch**: Create a new branch for your changes (`git checkout -b feature-branch`).
 3. **Make Changes**: Implement your changes in the new branch in your local repository.
 4. **Test Your Changes**: Ensure your code works as expected and doesn't break existing functionality.
-5. **Commit Changes**: Write clear, concise commit messages.
-6. **Push to Your Fork**: Push your changes to your forked repository.
-7. **Open a Pull Request**: Go to the original repository and open a pull request from your forked repository.
+5. **Commit Changes**: Write clear, concise commit messages (`git commit -m 'Add new feature'`).
+6. **Push to Your Fork**: Push your changes to your forked repository (`git push origin feature-branch`).
+7. **Create a new Pull Request**: Go to the original repository and open a pull request from your forked repository.
 8. **Describe Your Changes**: In the PR description, provide a detailed description of your changes.
 
 ## 🎉 Thank you

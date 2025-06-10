@@ -12,7 +12,7 @@
 <!-- ![CubeOCR Screenshot](docs/public/img/text1c.png) -->
 
 <p align="center">
-  <img src="docs/public/img/text1c.png" alt="Screenshot1" style="max-width:100%; height:auto; width:400px;" />
+  <img src="docs/public/img/text1c.png" alt="Screenshot1" style="max-width:100%; height:auto; width:450px;" />
 </p>
 <p align="center">
 <img src="docs/public/img/main1b.png" alt="Screenshot2" style="max-width:100%; height:auto; width:650px;" />
@@ -95,13 +95,7 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 
 ## Contributing
 
-For contributions, please follow the steps below:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Create a new pull request.
+- Please read the [CONTRIBUTING](CONTRIBUTING.md) for detailed guidelines.
 
 ## License
 
