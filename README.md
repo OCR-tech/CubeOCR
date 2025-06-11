@@ -109,5 +109,5 @@ CubeOCR is an easy-to-use OCR tool designed to extract text from scanned documen
 <!-- - For any inquiries, please contact us: -->
 
 - Email: ocrtech.mail@gmail.com
-- Website: [https://ocr-tech.github.io/CubeOCR](https://ocr-tech.github.io/CubeOCR/)
+- Website: [https://ocr-tech.github.io](https://ocr-tech.github.io)
 - GitHub: [https://github.com/OCR-tech](https://github.com/OCR-tech)
