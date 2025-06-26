@@ -48,7 +48,7 @@ To install and run this project:
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/<your-username>/CubeOCR.git
+   git clone https://github.com/OCR-tech/CubeOCR.git
    ```
 
 2. Navigate to the project directory:
